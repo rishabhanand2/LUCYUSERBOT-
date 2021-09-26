@@ -1,7 +1,7 @@
 {
-  "name": "Îtß Lêɠêɳ̃dẞø† 🇮🇳",
+  "name": "Îtß ULTRON † 🇮🇳",
   "description": "τнє ϐєѕτ υѕєяϐοτ мα∂є ϐγ ℓєgєи∂. Made with Love And By Python Language With Hardwork... ❤ ",
-  "logo": "https://telegra.ph/file/cfc1ba8da5fd7ab02fa7d.jpg",
+  "logo": "https://telegra.ph/file/d5fdb7898c7b76b418076.jpg",
     "keywords": [
     "telegram",
     "userbot",
@@ -9,8 +9,8 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/LEGEND-OS/LEGENDBOT/",
-  "website": "https://github.com/LEGEND-OS/LEGENDBOT/",
+  "repository": "https://github.com/rishabhanand2/LEGENDBOT",
+  "website": "https://github.com/rishabhanand2/LEGENDBOT",
   "success_url": "https://t.me/Legend_Userbot",
   "env": {
     "ENV": {
