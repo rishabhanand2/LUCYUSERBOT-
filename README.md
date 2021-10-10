@@ -1,7 +1,7 @@
-# 🖤 ULTRON 𝐁𝐎𝐓 🖤 
+# 𝗟𝗨𝗖𝗬𝗨𝗦𝗘𝗥𝗕𝗢𝗧
 
  <p align="center">
-  <img src="https://telegra.ph/file/d5fdb7898c7b76b418076.jpg">
+  <img src="https://telegra.ph/file/faaba2e4d34988fc8a46f.jpg">
 </p>
 
 ## <b>『𝐃𝐄𝐏𝐋𝐎𝐘 𝐓𝐎 𝐇𝐄𝐑𝐎𝐊𝐔』</b>
